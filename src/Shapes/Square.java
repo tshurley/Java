@@ -7,7 +7,7 @@ public class Square extends Rectangle {
 	}
 
 	public Square(double s) {
-		super(1,1);
+		super(s,s);
 	}
 	
 	@Override
